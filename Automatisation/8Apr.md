@@ -22,10 +22,10 @@ https://github.com/durablenapkin/scamblocklist
 This would probably increase the amount of pages targeted and would hence make it more relevant.
 Though technical side would be hard to implement if we don't use a paid service, and might cost us bandwidth.
 
-paid service : https://www.scampredictor.com/tarifs/ (already used by signal-arnaque)
-paid service : https://checkphish.ai/plans/
+- paid service : https://www.scampredictor.com/tarifs/ (already used by signal-arnaque)
+- paid service : https://checkphish.ai/plans/
 
-Free AI : https://github.com/bolster-inc/neo
+- Free AI : https://github.com/bolster-inc/neo
 
 ## 2 - Create a new __éclaireur__ from twitter feed
 Now that the twitter POC has been made, we should try it creating a new éclaireur (at least in dev).
