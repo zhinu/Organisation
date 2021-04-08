@@ -13,7 +13,7 @@
 A text list of compromised/scam hosts. When a user would visit a host from this list a notice would appear 
 e.g. 
 ```
-Ce site a été signalé comme frauduleux. Nous vous conseillons de quitter cette page.
+Ce site a été signalé comme frauduleux selon scamblocklist, groupe de dev qui recense les sites à risque. Nous vous conseillons de quitter cette page.
 ```
 
 This could be **easy** to implement and a **quick** win.
