@@ -30,7 +30,8 @@ Though technical side would be hard to implement if we don't use a paid service,
 ## 2 - Create a new __éclaireur__ from twitter feed
 Now that the twitter POC has been made, we should try it creating a new éclaireur (at least in dev).
 
-Twitter that could be used ...
+Twitter that could be used  for the fisrt try :
+https://twitter.com/sebsauvage_net
 
 ## 3 - Offer DRM-free alternatives to games
 
