@@ -25,3 +25,11 @@ Though technical side would be hard to implement if we don't use a paid service,
 paid service : https://www.scampredictor.com/tarifs/ (already used by signal-arnaque)
 
 Free AI : https://github.com/bolster-inc/neo (checkphish.ai)
+
+## 2 - Create a new __éclaireur__ from twitter feed
+Now that the twitter POC has been made, we should try it creating a new éclaireur (at least in dev).
+
+Twitter that could be used ...
+
+## 3 - Offer DRM-free alternatives to games
+GOG is a DRM free video games store. https://www.gogdb.org/
