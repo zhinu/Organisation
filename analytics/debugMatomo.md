@@ -13,7 +13,7 @@ x. https://notices.bulles.fr/api/v3/notices/1240/ratings
 3. https://stats.lmem.net/matomo.php?idsite=6&pv_id=8cf5762d&apiv=1&r=178cf5762dd7530&rec=1&_id=17882466a6dc350&uid=17882466a6dc350&_cvar=%7B%221%22%3A%5B%22CGU%20accept%C3%A9es%22%2C%22oui%22%5D%7D&c_n=1240&c_p=(%202%20)%20*grey*&c_t=https%3A%2F%2Fwww.amazon.fr%2F&url=https%3A%2F%2Fwww.amazon.fr%2F
 ```
 
-whereas
+where the __Query String Parameters__
 
 ```
 1.
@@ -70,7 +70,7 @@ x. https://notices.bulles.fr/api/v3/notices/678/ratings
 5. https://stats.lmem.net/matomo.php?idsite=6&pv_id=8cf61e74&apiv=1&r=178cf61e7ae222e0&rec=1&_id=17882466a6dc350&uid=17882466a6dc350&_cvar=%7B%221%22%3A%5B%22CGU%20accept%C3%A9es%22%2C%22oui%22%5D%7D&c_n=678&c_p=Attention%2C%20sur%20Adopteunmec.com%2C%20il%20est%20impossible%20de%20lire%20les%20messages%20re%C3%A7us%E2%80%A6&c_t=https%3A%2F%2Fwww.adopteunmec.com%2F&url=https%3A%2F%2Fwww.adopteunmec.com%2F
 ```
 
-wherein
+where the __Query String Parameters__
 
 ```
 1.
