@@ -8,7 +8,7 @@
 //span[@id='productTitle']/text()[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZÀÂÄÇÉÈÊËÎÏÙÛÜ' , 'abcdefghijklmnopqrstuvwxyzàâäçéèêëîïùûü'), 'text')]
 ```
 
-# targeting an active category
+# targeting an active category in the search results
 ```
 //div[@class='a-section']//span[contains(@class,'a-text-bold')]/text()[.='Loisirs Créatifs']
 ```
