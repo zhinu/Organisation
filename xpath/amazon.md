@@ -15,5 +15,5 @@
 
 # Checks if the price is below 10€
 ```
-translate(translate(//span[@id='priceblock_saleprice'],translate(., '0123456789.,', ''), ''),',','.') < 10
+translate(translate(//span[contains(@class,'a-size-medium a-color-price')],translate(., '0123456789.,', ''), ''),',','.') < 10
 ```
